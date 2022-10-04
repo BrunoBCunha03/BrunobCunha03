@@ -15,11 +15,11 @@ Iniciante na area de desenvolvimento front end, com conhecimento em algumas tecn
 
 ### Detalhes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBCunha03&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunobCunha03&show_icons=true&theme=dark)
 
 ### Principais linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBCunha03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunobCunha03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos 
 
